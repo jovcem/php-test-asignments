@@ -1,5 +1,3 @@
-# php-test-asignments
-
 ## How to run the app
 
 ### Using docker compose
